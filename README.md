@@ -1,4 +1,4 @@
-# SALADEESTUDOS1
+# SALA DE ESTUDOS 1
 
 Repositório voltado para estudo de Node.Js
 
